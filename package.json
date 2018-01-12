@@ -1,0 +1,24 @@
+{
+  "name": "antony_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Ivanov-Aleksei@bitbucket.org/Ivanov-Aleksei/antony_form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Ivanov-Aleksei/antony_form#readme",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "koa-static": "^4.0.1",
+    "nodemon": "^1.11.0",
+    "uuidv4": "^0.5.0"
+  }
+}
